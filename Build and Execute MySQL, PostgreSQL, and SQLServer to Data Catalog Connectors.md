@@ -1,9 +1,5 @@
 # Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors || [GSP814](https://www.cloudskillsboost.google/focuses/11999?parent=catalog) ||
 
-## Solution [here](https://youtu.be/43hA0Is9J1I)
-
-### Run the following Commands in CloudShell
-
 ```
 export REGION=
 ```
@@ -20,7 +16,3 @@ sudo chmod +x gsp814.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/QuickGcpLab) & [Discussion group](https://t.me/QuickGcpLabChats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
